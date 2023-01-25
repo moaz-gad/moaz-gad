@@ -4,11 +4,10 @@
   about writing clean code and I genuinely love to learn.
 </h3>
 
-
 - 🌱 I’m currently learning **Node.js, Mobile Development** 
-- 👨‍💻 All of my projects are available at [https://moaz-gad.github.io/portfolio/](https://moaz-gad.github.io/portfolio/) -
-💬 Ask me about **JavaScript,Mern** - 📫 How to reach me
-**Moaz.a.gad@gmail.com**
+- 👨‍💻 All of myprojects are available at[https://moaz-gad.github.io/portfolio/](https://moaz-gad.github.io/portfolio/)
+-💬 Ask me about **JavaScript,Mern** 
+- 📫 How to reach me **Moaz.a.gad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
