@@ -5,9 +5,8 @@
 </h3>
 
 
-- 🌱 I’m currently learning **Node.js, Mobile Development** - 👨‍💻 All of my
-projects are available at
-[https://moaz-gad.github.io/portfolio/](https://moaz-gad.github.io/portfolio/) -
+- 🌱 I’m currently learning **Node.js, Mobile Development** 
+- 👨‍💻 All of my projects are available at [https://moaz-gad.github.io/portfolio/](https://moaz-gad.github.io/portfolio/) -
 💬 Ask me about **JavaScript,Mern** - 📫 How to reach me
 **Moaz.a.gad@gmail.com**
 
