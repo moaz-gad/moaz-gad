@@ -1,4 +1,4 @@
-<h1 align="center">Moaz</h1>
+<h1 align="center">Hi, I'm Moaz...</h1>
 <h3 align="center">
   Passionate about all things <span style="color: red">JavaScript</span>. I care
   about writing clean code and I genuinely love to learn.
