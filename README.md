@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, Mobile Development** <br>
 - 👨‍💻 All of myprojects are available at[https://moaz-gad.github.io/portfolio/](https://moaz-gad.github.io/portfolio/)<br>
--💬 Ask me about **JavaScript,Mern** <br>
+- 💬 Ask me about **JavaScript,Mern** <br>
 - 📫 How to reach me **Moaz.a.gad@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
