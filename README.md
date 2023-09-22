@@ -1,5 +1,5 @@
 
-# Hi there 👋
+# Hi there 🦫
 
 > - 🔭 I’m currently exploring three.js, mastering 3D artistry!.
 > - 🌱 Frontend Web Development geek.
